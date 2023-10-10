@@ -1,6 +1,12 @@
 # virtual env
 .p310/
 
+# screenshots in the ss directory
+docs/ss/*
+
+# pdm files
+pdm.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
